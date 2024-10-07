@@ -12,6 +12,7 @@
 </template>
 
 <script>
+///###hsmith $TODO why is extension not being inferred? transpile issue? or rollup?
 import Authorise from '@/components/Authorise.vue'
 import NowPlaying from '@/components/NowPlaying.vue'
 
