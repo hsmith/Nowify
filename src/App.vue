@@ -12,8 +12,8 @@
 </template>
 
 <script>
-import Authorise from '@/components/Authorise'
-import NowPlaying from '@/components/NowPlaying'
+import Authorise from '@/components/Authorise.vue'
+import NowPlaying from '@/components/NowPlaying.vue'
 
 import { getStoredAuth, setStoredAuth } from '@/utils/utils.js'
 
